@@ -8,6 +8,7 @@ public class MethodEx
 	int b=20;
 	int c=a+b;
 	System.out.println("addition is:"+c);
+ }
 public void sub()//Method name should start with small letter
  {
 	int p=10;
