@@ -25,7 +25,7 @@ public void mul()//Method name should start with small letter
 }
 	public static void main (String []args)
 	{
-		System.out.println("Example for method");
+		System.out.println("Example for method in java");
 		MethodEx m=new MethodEx();
 		m.add();
 		m.sub();
