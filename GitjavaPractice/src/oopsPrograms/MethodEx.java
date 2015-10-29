@@ -16,13 +16,20 @@ public void sub()//Method name should start with small letter
 	int r=p-q;
 	System.out.println("addition is:"+r);
  }
-
+public void mul()//Method name should start with small letter
+{
+	int d=10;
+	int e=20;
+	int f=d*e;
+	System.out.println("addition is:"+f);
+}
 	public static void main (String []args)
 	{
 		System.out.println("Example for method in java");
 		MethodEx m=new MethodEx();
 		m.add();
-		m.sub();;
+		m.sub();
+		m.mul();
 	}
 	
 	}
